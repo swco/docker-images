@@ -1,0 +1,2 @@
+FROM phpunit/phpunit
+ENTRYPOINT []
