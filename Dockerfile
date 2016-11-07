@@ -1,2 +1,2 @@
-FROM phpunit/phpunit
+FROM phpunit/phpunit:5.5.7
 ENTRYPOINT []
